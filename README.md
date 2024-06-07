@@ -1,7 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ThabataTecdet/ThabataTecdet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Thábata. Welcome to my profile! 
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/2f/56/90/2f5690ee185f5345025b1a5b0bf2c8aa.gif" width="100%" height="20%">
+</div>
+
+<br>
 
 <div>
   <a href="https://github.com/ThabataTecdet">
